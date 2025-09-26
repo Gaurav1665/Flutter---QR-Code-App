@@ -75,15 +75,15 @@ You can adjust to match your actual structure.
    ```bash
    git clone https://github.com/Gaurav1665/Flutter---QR-Code-App.git
    cd Flutter---QR-Code-App
-
+   ```
 2. Install dependencies:
     ```
     flutter pub get
-
+   ```
 3. Run the app:
     ```
     flutter run
-
+   ```
 ---
 
 ## 📂 Usage
